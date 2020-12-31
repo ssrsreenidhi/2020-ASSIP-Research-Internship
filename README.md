@@ -1,5 +1,4 @@
 # 2020-ASSIP-Research-Internship
-As part of Aspiring Scientist Summer Internship program, worked under the guidance of Dr. Jafri in GMU in the Bio Engineering department.
-The link below gives the details of the project done.
+2020 Summer-Present: I worked under Dr. Jafri at George Mason University to identify potential COVID-19 N-protein active sites for antiviral suppression drug treatments.
 
 https://www.youtube.com/watch?v=KGZtMPIj19Y&authuser=1
